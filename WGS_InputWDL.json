@@ -1,0 +1,8 @@
+{
+  "WGS_Processing.ref": "/home/akshay/Akshay/WGS/hg38.fa.gz",
+  "WGS_Processing.known_sites_vcf": "/home/akshay/Akshay/WGS/Homo_sapiens_assembly38.dbsnp138.vcf",
+  "WGS_Processing.known_sites_idx": "/home/akshay/Akshay/WGS/Homo_sapiens_assembly38.dbsnp138.vcf.idx",
+  "WGS_Processing.r1_fastq": "/home/akshay/Akshay/WGS/reads/SRR741411_1.filt.fastq.gz",
+  "WGS_Processing.r2_fastq": "/home/akshay/Akshay/WGS/reads/SRR741411_2.filt.fastq.gz"
+}
+
