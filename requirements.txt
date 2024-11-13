@@ -1,0 +1,12 @@
+# requirements.txt
+
+# Required Python packages
+subprocess32   # If you need an enhanced version of subprocess (optional)
+numpy          # Often needed in bioinformatics workflows
+pandas         # Data manipulation library, if needed
+
+# External tools (These need to be installed separately via package manager or system install)
+fastqc         # FastQC for quality control
+bwa            # BWA for alignment
+gatk           # GATK for variant calling and processing
+
